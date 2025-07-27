@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Vibhor Pundhir
 
-I’m a 3rd year Computer Science Engineering student with a keen interest in Artificial Intelligence, Data Science, and Software Development. I love building things, solving problems, and contributing to the open-source community.
+I’m a last year Computer Science Engineering student with a keen interest in Artificial Intelligence, Data Science, and Software Development. I love building things, solving problems, and contributing to the open-source community.
 
 ### 🔭 I’m currently working on:
 - AI annotation tasks and evaluating responses based on specific criteria
