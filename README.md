@@ -27,13 +27,26 @@
     <img src="https://img.shields.io/badge/Location-Alwar,_Rajasthan,_India-FF6D00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
 
-  <br/><br/>
+</div>
 
-  <!-- Stats & Academic Badges -->
-  <img src="https://img.shields.io/badge/University-SRMIST_Chennai-7B1FA2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="SRMIST" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech_CSE_(Big_Data)-0288D1?style=for-the-badge&logo=academic&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/CGPA-9.42_%2F_10.0-00E676?style=for-the-badge&logo=star&logoColor=white" alt="CGPA" />
-  <img src="https://komarev.com/ghpvc/?username=vibhorpundhir&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<br/>
+
+---
+
+### 🌟 KEY HIGHLIGHTS & ACCREDITATIONS
+
+<div align="center">
+
+[![PRO](https://img.shields.io/badge/GitHub-PRO_Member-7F00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vibhorpundhir)
+[![Developer](https://img.shields.io/badge/GitHub-Developer_Program_Member-00F2FE?style=for-the-badge&logo=github&logoColor=black)](https://developer.github.com/program)
+[![Oracle OCI GenAI](https://img.shields.io/badge/Oracle_OCI_2025-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
+[![AWS Certified](https://img.shields.io/badge/AWS_Academy-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![SRMIST CGPA](https://img.shields.io/badge/SRMIST-CSE_(Big_Data)_CGPA_9.42-00E676?style=for-the-badge&logo=google-scholar&logoColor=white)](https://srmist.edu.in)
+[![Published Researcher](https://img.shields.io/badge/Published_Researcher-Atlantis_Press_%2F_IJSAT-0288D1?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://doi.org/10.2991/978-94-6239-693-7_3)
+[![Flipkart Grid 5.0](https://img.shields.io/badge/Flipkart_Grid_5.0-National_Finalist-2874F0?style=for-the-badge&logo=flipkart&logoColor=white)](https://flipkart.com)
+[![SIH Finalist](https://img.shields.io/badge/Smart_India_Hackathon-College_Finalist-FF6D00?style=for-the-badge&logo=government&logoColor=white)](https://sih.gov.in)
+[![SPECTRA Intern](https://img.shields.io/badge/SPECTRA-Software_Engineering_Intern-7B1FA2?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/vibhorpundhir)
+[![NPTEL Certified](https://img.shields.io/badge/NPTEL-Cloud_Computing_%26_Java-00C853?style=for-the-badge&logo=education&logoColor=white)](https://nptel.ac.in)
 
 </div>
 
@@ -41,7 +54,7 @@
 
 ---
 
-### 🧠 Developer Profile & Highlights
+### 🧠 Developer Profile & Overview
 
 ```yaml
 developer_info:
